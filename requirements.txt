@@ -1,3 +1,4 @@
-requests==2.33.1
-beautifulsoup4==4.14.3
-selenium==4.43.0
+IMAPClient==3.0.1
+pyzmail36==1.0.5
+requests==2.32.3
+python-dotenv==1.0.1
