@@ -25,57 +25,62 @@ def send_telegram(message):
         'text': message
     }
 
-    requests.post(url, data=payload)
-
+    #requests.post(url, data=payload)
 
 def check_email():
     global seen_uids
+    try:
+        print("Connecting to IMAP server...")
+        with IMAPClient(IMAP_SERVER, port=IMAP_PORT, ssl=True) as server:
+            server.login(EMAIL, PASSWORD)
+            print("Login success")
 
-    with IMAPClient(IMAP_SERVER, port=IMAP_PORT, ssl=True) as server:
-        server.login(EMAIL, PASSWORD)
-        server.select_folder('INBOX')
+            server.select_folder('INBOX')
 
-        messages = server.search(['UNSEEN'])
+            messages = server.search(['SEEN'])
 
-        print(messages)
-        # for uid in messages:
-        #     if uid in seen_uids:
-        #         continue
+            for uid in messages:
+                if uid in seen_uids:
+                    continue
 
-        #     raw_message = server.fetch([uid], ['BODY[]', 'FLAGS'])
+                raw_message = server.fetch([uid], ['BODY[]', 'FLAGS'])
 
-        #     message = pyzmail.PyzMessage.factory(
-        #         raw_message[uid][b'BODY[]']
-        #     )
+                message = pyzmail.PyzMessage.factory(
+                    raw_message[uid][b'BODY[]']
+                )
 
-        #     subject = message.get_subject()
+                subject = message.get_subject()
 
-        #     from_email = message.get_addresses('from')
+                from_email = message.get_addresses('from')
 
-        #     body = ''
+                body = ''
 
-        #     if message.text_part:
-        #         body = message.text_part.get_payload().decode(
-        #             message.text_part.charset or 'utf-8'
-        #         )
+                if message.text_part:
+                    body = message.text_part.get_payload().decode(
+                        message.text_part.charset or 'utf-8'
+                    )
 
-        #     text = f'''
-        #         📩 EMAIL BARU
+                text = f'''
+                    📩 EMAIL BARU
 
-        #         From: {from_email}
+                    From: {from_email}
 
-        #         Subject: {subject}
+                    Subject: {subject}
 
-        #         Body:
-        #         {body[:1000]}
-        #     '''
+                    Body:
+                    {body[:1000]}
+                '''
 
-        #     send_telegram(text)
+                send_telegram(text)
 
-        #     seen_uids.add(uid)
+                seen_uids.add(uid)
 
-        #     print(f'Email sent to Telegram: {subject}')
+                print(f'Email sent to Telegram: {subject}')
+                time.sleep(2)
 
+    except Exception as e:
+        print("ERROR:")
+        print(e)
 
 if __name__ == '__main__':
     while True:
