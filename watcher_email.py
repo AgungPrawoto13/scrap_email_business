@@ -1,5 +1,6 @@
 import os
 import re
+import pyzmail
 import pandas as pd
 import time
 import requests
@@ -8,7 +9,6 @@ from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from imapclient import IMAPClient
 from datetime import datetime, timedelta
-import pyzmail
 
 load_dotenv()
 seen_uids = set()
@@ -20,6 +20,8 @@ PASSWORD = os.getenv('PASSWORD')
 
 BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
+ATTACHMENT_DIR = "attachments"
+os.makedirs(ATTACHMENT_DIR, exist_ok=True)
 
 def send_telegram(message):
     url = f'https://api.telegram.org/bot{BOT_TOKEN}/sendMessage'
@@ -41,11 +43,13 @@ def check_email():
 
             server.select_folder('INBOX')
             messages = server.search(['SEEN'])
-
+            latest_uid = messages[-1]
+            
             response = server.fetch(
                 messages,
-                ['INTERNALDATE']
+                ['INTERNALDATE'],
             )
+
             target_date = datetime(2026, 5, 13).date()
             
             for uid, data in response.items():
@@ -58,17 +62,32 @@ def check_email():
                     print(f"MATCH UID: {uid}")
 
                     raw_message = server.fetch([uid], ['BODY[]', 'FLAGS'])
-
                     message = pyzmail.PyzMessage.factory(
                         raw_message[uid][b'BODY[]']
                     )
 
+                    #to get file attachment from body email
+                    for part in message.mailparts:
+
+                        filename = part.filename
+                        if filename:
+
+                            print("ATTACHMENT FOUND:", filename)
+                            filepath = os.path.join(
+                                ATTACHMENT_DIR,
+                                filename
+                            )
+                            payload = part.get_payload()
+                            # with open(filepath, "wb") as f:
+                            #     f.write(payload)
+
+                            # print("SAVED:", filepath)
+
                     subject = message.get_subject()
-
                     from_email = message.get_addresses('from')
-
                     body = ''
 
+                    #get convert body email to plain text and get table in body email
                     if message.text_part and message.html_part:
                         body = message.text_part.get_payload().decode(
                             message.text_part.charset or 'utf-8'
@@ -81,15 +100,12 @@ def check_email():
                         EMAIL BARU
 
                         From: {from_email}
-
                         Subject: {subject}
-
                         Body:
                         {body}
                     '''
 
                     send_telegram(text)
-
                     seen_uids.add(uid)
 
                     print(f'Email sent to Telegram: {subject}')
@@ -150,16 +166,17 @@ def parsing_table(html_body):
             print("ERROR PARSING TABLE:", e)
 
 # if __name__ == '__main__':
-#text, html_body = check_email()
-# parsing_table(html_body)
-# print("pesan email", text)
+text, html_body = check_email()
+#parsing_table(html_body)
+
+#print("pesan email", text)
 # with open("result_email.txt", "w") as f:
 #     f.write(text)
 
-with open('result_email.txt', 'r') as file:
-    content = file.read()
+# with open('result_email.txt', 'r') as file:
+#     content = file.read()
 
-cleaned_body = clean_email_body(content)
-rows = extract_rows(cleaned_body)
-df = pd.DataFrame(rows)
-df.to_excel("result_scrap.xlsx")
+# cleaned_body = clean_email_body(content)
+# rows = extract_rows(cleaned_body)
+# df = pd.DataFrame(rows)
+# df.to_excel("result_scrap.xlsx")
