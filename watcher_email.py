@@ -3,12 +3,15 @@ import re
 import pandas as pd
 import time
 import requests
+from io import StringIO
+from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from imapclient import IMAPClient
 from datetime import datetime, timedelta
 import pyzmail
 
 load_dotenv()
+seen_uids = set()
 
 IMAP_SERVER = os.getenv('IMAP_SERVER')
 IMAP_PORT = int(os.getenv('IMAP_PORT'))
@@ -17,8 +20,6 @@ PASSWORD = os.getenv('PASSWORD')
 
 BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
-
-seen_uids = set()
 
 def send_telegram(message):
     url = f'https://api.telegram.org/bot{BOT_TOKEN}/sendMessage'
@@ -68,13 +69,16 @@ def check_email():
 
                     body = ''
 
-                    if message.text_part:
+                    if message.text_part and message.html_part:
                         body = message.text_part.get_payload().decode(
                             message.text_part.charset or 'utf-8'
                         )
+                        html_body = message.html_part.get_payload().decode(
+                            message.html_part.charset or 'utf-8'
+                        )
 
                     text = f'''
-                        📩 EMAIL BARU
+                        EMAIL BARU
 
                         From: {from_email}
 
@@ -91,7 +95,7 @@ def check_email():
                     print(f'Email sent to Telegram: {subject}')
                     time.sleep(2)
 
-            return text
+            return text, html_body
     except Exception as e:
         print("ERROR:")
         print(e)
@@ -127,9 +131,30 @@ def extract_rows(body):
 
     return rows
 
+def parsing_table(html_body):
+    soup = BeautifulSoup(html_body, 'lxml')
+    tables = soup.find_all('table')
+    print("TOTAL TABLE:", len(tables))
+
+    for idx, table in enumerate(tables):
+
+        try:
+            df_table_body = pd.read_html(
+                StringIO(str(table))
+            )[0]
+            print(f"\nTABLE {idx}")
+            print(df_table_body)
+            df_table_body.to_excel(f"table_email{idx}.xlsx")
+
+        except Exception as e:
+            print("ERROR PARSING TABLE:", e)
+
 # if __name__ == '__main__':
-# text = check_email()
+#text, html_body = check_email()
+# parsing_table(html_body)
 # print("pesan email", text)
+# with open("result_email.txt", "w") as f:
+#     f.write(text)
 
 with open('result_email.txt', 'r') as file:
     content = file.read()
@@ -137,4 +162,4 @@ with open('result_email.txt', 'r') as file:
 cleaned_body = clean_email_body(content)
 rows = extract_rows(cleaned_body)
 df = pd.DataFrame(rows)
-#df.to_excel("result_scrap.xlsx")
+df.to_excel("result_scrap.xlsx")

@@ -1,93 +1,1709 @@
-pesan email 
-                        📩 EMAIL BARU
+
+                        EMAIL BARU
 
                         From: [('tanty@pearlriver.space', 'tanty@pearlriver.space')]
 
                         Subject: RE: Request Approval BAST Dismantle 24 Site
 
                         Body:
-                        Dear Pak Cyrill Ilario,
+                        Dear Pak Cyrill Ilario,
+
+ 
+
+Baik Pak.
+Berikut kami ajukan BAST untuk pekerjaan Dismantle 9 site (terlampir).
+Mohon review dan approval nya.
+
+
+No
+
+Site ID/DU ID
+
+Pekerjaan
+
+PO Number
+
+Date M08-C (Dismantle)
+
+Date M08-D (Inbound)
+
+Date M08-B (ATP Dismantle)
+
+TOP
+
+
+1
+
+JAW-JB-SKB-2372_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+PO-PMT/2602/00089
+
+05/01/2026
+
+04/02/2026
+
+17/04/2026
+
+80%
+
+
+2
+
+JAW-JK-KYB-0255_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+PO-PMT/2602/00089
+
+14/01/2026
+
+04/02/2026
+
+22/04/2026
+
+80%
+
+
+3
+
+JAW-JB-SKB-2370_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+PO-PMT/2602/00089
+
+17/12/2025
+
+27/12/2025
+
+16/03/2026
+
+80%
+
+
+4
+
+JAW-JB-SBM-2437_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+PO-PMT/2602/00089
+
+15/12/2025
+
+27/12/2025
+
+16/03/2026
+
+80%
+
+
+5
+
+JAW-JB-SKB-2345_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+PO-PMT/2602/00089
+
+12/12/2025
+
+28/12/2025
+
+16/03/2026
+
+80%
+
+
+6
+
+JAW-JK-KYB-1673_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+PO-PMT/2602/00089
+
+05/03/2026
+
+14/03/2026
+
+11/05/2026
+
+80%
+
+
+7
+
+JAW-JK-GGP-0585_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+PO-PMT/2602/00089
+
+16/03/2026
+
+28/03/2026
+
+12/05/2026
+
+80%
+
+
+8
+
+JAW-JB-DPK-1649_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+PO-PMT/2602/00089
+
+02/04/2026
+
+11/04/2026
+
+13/05/202 
+
+80%
+
+
+9
+
+JAW-BT-TGR-1963_MOCN_WLSB
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+PO-PMT/2602/00089
+
+11/03/2026
+
+28/03/2026
+
+ 30/01/2026
+
+80%
+
+ 
+
+ 
+
+Thank You,
+
+Tanty Wijayanti
+
+PT Pearl River Indonesia
+
++6285647740430
+
+ 
+
+HQ: Gold Coast Office Tower Liberty Lt.19, Kamal Muara, Penjaringan, Jakarta
+Utara, DKI Jakarta 14470
+
+MEP: Rukan Shibuya Blok C no 22-23, Teluknaga, Tangerang, Banten 15510
+
+ 
+
+From: Cyrill Ilario <cyrill.ilario@pmt.co.id> 
+Sent: 12 Mei 2026 17:42
+To: tanty@pearlriver.space
+Cc: lia@ptidp.co.id; lia.karyanti.ro@pmt.co.id; agung.prawoto.ext@pmt.co.id;
+'Rama Dwibudiputra' <rama.dwi@pmt.co.id>; 'Chendy Kristiana'
+<chendy.kristiana@pmt.co.id>; valen.yola.amanda@pmt.co.id;
+stevlin.maris@pmt.co.id; maya.permatasari@pmt.co.id; procurement@pmt.co.id;
+bianhaibo@pearlriver.id; wangyinhui@hnchuangxun.com; melati@pearlriver.id;
+desiana.dc@pearlriver.id; HengkyNugraha@pearlriver.id;
+darezchandra.dc@pearlriver.id; enjelinahutagaol.dc@pearlriver.id;
+anting.dc@pearlriver.id
+Subject: RE: Request Approval BAST Dismantle 24 Site
+
+ 
+
+Dear mba  <mailto:tanty@pearlriver.space> @tanty@pearlriver.space,
+
+ 
+
+Mohon untuk mengikuti template berikut ya, dan di cek kembali minimal yang
+di ajukan sudah M08-B ATP Dismantle L1 Approved.
+
+ 
+
+My sincere thanks for your time and consideration,
+
+  _____  
+
+Cyrill Ilario
+
+Mobile: 0857 1746 8592
+
+
+
+ 
+
+ 
+
+From: tanty@pearlriver.space <mailto:tanty@pearlriver.space>
+<tanty@pearlriver.space <mailto:tanty@pearlriver.space> > 
+Sent: 06 May 2026 10:38
+To: 'Cyrill Ilario' <cyrill.ilario@pmt.co.id
+<mailto:cyrill.ilario@pmt.co.id> >
+Cc: lia@ptidp.co.id <mailto:lia@ptidp.co.id> ; lia.karyanti.ro@pmt.co.id
+<mailto:lia.karyanti.ro@pmt.co.id> ; agung.prawoto.ext@pmt.co.id
+<mailto:agung.prawoto.ext@pmt.co.id> ; 'Rama Dwibudiputra'
+<rama.dwi@pmt.co.id <mailto:rama.dwi@pmt.co.id> >; 'Chendy Kristiana'
+<chendy.kristiana@pmt.co.id <mailto:chendy.kristiana@pmt.co.id> >;
+valen.yola.amanda@pmt.co.id <mailto:valen.yola.amanda@pmt.co.id> ;
+stevlin.maris@pmt.co.id <mailto:stevlin.maris@pmt.co.id> ;
+maya.permatasari@pmt.co.id <mailto:maya.permatasari@pmt.co.id> ;
+procurement@pmt.co.id <mailto:procurement@pmt.co.id> ;
+bianhaibo@pearlriver.id <mailto:bianhaibo@pearlriver.id> ;
+wangyinhui@hnchuangxun.com <mailto:wangyinhui@hnchuangxun.com> ;
+melati@pearlriver.id <mailto:melati@pearlriver.id> ;
+desiana.dc@pearlriver.id <mailto:desiana.dc@pearlriver.id> ;
+HengkyNugraha@pearlriver.id <mailto:HengkyNugraha@pearlriver.id> ;
+darezchandra.dc@pearlriver.id <mailto:darezchandra.dc@pearlriver.id> ;
+enjelinahutagaol.dc@pearlriver.id <mailto:enjelinahutagaol.dc@pearlriver.id>
+; anting.dc@pearlriver.id <mailto:anting.dc@pearlriver.id> 
+Subject: RE: Request Approval BAST Dismantle 24 Site
+
+ 
+
+Dear Pak Cyrill Ilario,
+
+ 
+
+Berikut revisi lampiran BAST untuk pekerjaan Dismantle 24 Site.
+
+Mohon approval BAST nya untuk keperluan penagihan.
+
+ 
+
+
+No
+
+Site
+
+Pekerjaan
+
+M08C
+
+M08D
+
+M08B
+
+
+1
+
+JAW-JK-KYB-0255_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+14-01-2026
+
+04-02-2026
+
+22-04-2026
+
+
+2
+
+JAW-JK-KYB-0096_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+16-12-2025
+
+27-12-2015
+
+ 
+
+
+3
+
+JAW-JK-KYB-1673_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+05-03-2026
+
+14-03-2026
+
+ 
+
+
+4
+
+JAW-JK-GGP-0584_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+11-03-2026
+
+28-03-2026
+
+ 
+
+
+5
+
+JAW-JK-CKG-0748_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+23-02-2026
+
+28-02-2026
+
+ 
+
+
+6
+
+JAW-JK-GGP-0585_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+16-03-2026
+
+28-03-2026
+
+ 
+
+
+7
+
+JAW-JB-DPK-1649_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+02-04-2026
+
+2026-04-11
+
+ 
+
+
+8
+
+JAW-JB-DPK-1873_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+13-03-2026
+
+2026-03-28
+
+ 
+
+
+9
+
+JAW-JK-KYB-1536_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+09-03-2026
+
+2026-03-14
+
+ 
+
+
+10
+
+JAW-JK-CKG-0825_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+15-02-2026
+
+2026-02-28
+
+ 
+
+
+11
+
+JAW-JK-TNA-3071_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+19-02-2026
+
+2026-02-28
+
+ 
+
+
+12
+
+JAW-BT-TGR-1963_MOCN_WLSB
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+11-03-2026
+
+2026-03-28
+
+30-01-2026
+
+
+13
+
+JAW-JB-DPK-0486_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+14-02-2026
+
+2026-02-28
+
+ 
+
+
+14
+
+JAW-JK-CKG-0611_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+12-02-2026
+
+2026-02-28
+
+ 
+
+
+15
+
+JAW-JK-KYB-1542_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+09-03-3036
+
+2026-03-14
+
+ 
+
+
+16
+
+JAW-JB-DPK-1568_MOCN_WLSG
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+28-02-2026
+
+2026-03-14
+
+ 
+
+
+17
+
+JAW-JB-SBM-2530_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+10-02-2026
+
+2026-03-28
+
+ 
+
+
+18
+
+JAW-JK-KYB-1566_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+04-03-2026
+
+2026-03-14
+
+ 
+
+
+19
+
+JAW-JB-DPK-1567_MOCN_WLSG
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+02-04-2026
+
+2026-04-11
+
+ 
+
+
+20
+
+JAW-JK-CKG-0790_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+16-03-2026
+
+2026-03-28
+
+ 
+
+
+21
+
+JAW-BT-TNG-1417_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+26-03-2026
+
+2026-04-11
+
+ 
+
+
+22
+
+JAW-BT-TNG-1613_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+16-03-2026
+
+2026-03-28
+
+ 
+
+
+23
+
+JAW-BT-TNG-1616_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+27-03-2026
+
+2026-04-11
+
+ 
+
+
+24
+
+JAW-BT-TNG-1632_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+17-03-2026
+
+2026-03-28
+
+ 
+
+ 
+
+Thank You,
+
+Tanty Wijayanti
+
+PT Pearl River Indonesia
+
++6285647740430
+
+ 
+
+HQ: Gold Coast Office Tower Liberty Lt.19, Kamal Muara, Penjaringan, Jakarta
+Utara, DKI Jakarta 14470
+
+MEP: Rukan Shibuya Blok C no 22-23, Teluknaga, Tangerang, Banten 15510
+
+ 
+
+From: tanty@pearlriver.space <mailto:tanty@pearlriver.space>
+<tanty@pearlriver.space <mailto:tanty@pearlriver.space> > 
+Sent: 30 April 2026 10:01
+To: 'Cyrill Ilario' <cyrill.ilario@pmt.co.id
+<mailto:cyrill.ilario@pmt.co.id> >
+Cc: 'lia@ptidp.co.id' <lia@ptidp.co.id <mailto:lia@ptidp.co.id> >;
+'lia.karyanti.ro@pmt.co.id' <lia.karyanti.ro@pmt.co.id
+<mailto:lia.karyanti.ro@pmt.co.id> >; 'agung.prawoto.ext@pmt.co.id'
+<agung.prawoto.ext@pmt.co.id <mailto:agung.prawoto.ext@pmt.co.id> >; 'Rama
+Dwibudiputra' <rama.dwi@pmt.co.id <mailto:rama.dwi@pmt.co.id> >; 'Chendy
+Kristiana' <chendy.kristiana@pmt.co.id <mailto:chendy.kristiana@pmt.co.id>
+>; 'valen.yola.amanda@pmt.co.id' <valen.yola.amanda@pmt.co.id
+<mailto:valen.yola.amanda@pmt.co.id> >; 'stevlin.maris@pmt.co.id'
+<stevlin.maris@pmt.co.id <mailto:stevlin.maris@pmt.co.id> >;
+'maya.permatasari@pmt.co.id' <maya.permatasari@pmt.co.id
+<mailto:maya.permatasari@pmt.co.id> >; 'procurement@pmt.co.id'
+<procurement@pmt.co.id <mailto:procurement@pmt.co.id> >;
+'bianhaibo@pearlriver.id' <bianhaibo@pearlriver.id
+<mailto:bianhaibo@pearlriver.id> >; 'wangyinhui@hnchuangxun.com'
+<wangyinhui@hnchuangxun.com <mailto:wangyinhui@hnchuangxun.com> >;
+'melati@pearlriver.id' <melati@pearlriver.id <mailto:melati@pearlriver.id>
+>; 'desiana.dc@pearlriver.id' <desiana.dc@pearlriver.id
+<mailto:desiana.dc@pearlriver.id> >; 'christianpsimajuntak@pearlriver.id'
+<christianpsimajuntak@pearlriver.id
+<mailto:christianpsimajuntak@pearlriver.id> >;
+'darezchandra.dc@pearlriver.id' <darezchandra.dc@pearlriver.id
+<mailto:darezchandra.dc@pearlriver.id> >;
+'enjelinahutagaol.dc@pearlriver.id' <enjelinahutagaol.dc@pearlriver.id
+<mailto:enjelinahutagaol.dc@pearlriver.id> >; 'anting.dc@pearlriver.id'
+<anting.dc@pearlriver.id <mailto:anting.dc@pearlriver.id> >
+Subject: RE: Request Approval BAST Dismantle 24 Site
+
+ 
+
+Dear Pak Cyrill Ilario,
+
+ 
+
+Berikut revisi lampiran BAST untuk pekerjaan Dismantle 24 Site.
+
+
+No
+
+Site
+
+Pekerjaan
+
+M08C
+
+M08D
+
+M08B
+
+
+1
+
+JAW-JK-KYB-0255_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+14-01-2026
+
+ 
+
+22-04-2026
+
+
+2
+
+JAW-JK-KYB-0096_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+16-12-2025
+
+ 
+
+ 
+
+
+3
+
+JAW-JK-KYB-1673_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+05-03-2026
+
+ 
+
+ 
+
+
+4
+
+JAW-JK-GGP-0584_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+11-03-2026
+
+ 
+
+ 
+
+
+5
+
+JAW-JK-CKG-0748_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+23-02-2026
+
+ 
+
+ 
+
+
+6
+
+JAW-JK-GGP-0585_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+16-03-2026
+
+ 
+
+ 
+
+
+7
+
+JAW-JB-DPK-1649_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+02-04-2026
+
+ 
+
+ 
+
+
+8
+
+JAW-JB-DPK-1873_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+13-03-2026
+
+ 
+
+ 
+
+
+9
+
+JAW-JK-KYB-1536_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+09-03-2026
+
+ 
+
+ 
+
+
+10
+
+JAW-JK-CKG-0825_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+15-02-2026
+
+ 
+
+ 
+
+
+11
+
+JAW-JK-TNA-3071_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+19-02-2026
+
+ 
+
+ 
+
+
+12
+
+JAW-BT-TGR-1963_MOCN_WLSB
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+11-03-2026
+
+ 
+
+30-01-2026
+
+
+13
+
+JAW-JB-DPK-0486_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+14-02-2026
+
+ 
+
+ 
+
+
+14
+
+JAW-JK-CKG-0611_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+12-02-2026
+
+ 
+
+ 
+
+
+15
+
+JAW-JK-KYB-1542_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+09-03-3036
+
+ 
+
+ 
+
+
+16
+
+JAW-JB-DPK-1568_MOCN_WLSG
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+28-02-2026
+
+ 
+
+ 
+
+
+17
+
+JAW-JB-SBM-2530_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+10-02-2026
+
+ 
+
+ 
+
+
+18
+
+JAW-JK-KYB-1566_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+04-03-2026
+
+ 
+
+ 
+
+
+19
+
+JAW-JB-DPK-1567_MOCN_WLSG
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+02-04-2026
+
+ 
+
+ 
+
+
+20
+
+JAW-JK-CKG-0790_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+16-03-2026
+
+ 
+
+ 
+
+
+21
+
+JAW-BT-TNG-1417_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+26-03-2026
+
+ 
+
+ 
+
+
+22
+
+JAW-BT-TNG-1613_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+16-03-2026
+
+ 
+
+ 
+
+
+23
+
+JAW-BT-TNG-1616_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+27-03-2026
+
+ 
+
+ 
+
+
+24
+
+JAW-BT-TNG-1632_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+17-03-2026
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thank You,
+
+Tanty Wijayanti
+
+PT Pearl River Indonesia
+
++6285647740430
+
+ 
+
+HQ: Gold Coast Office Tower Liberty Lt.19, Kamal Muara, Penjaringan, Jakarta
+Utara, DKI Jakarta 14470
+
+MEP: Rukan Shibuya Blok C no 22-23, Teluknaga, Tangerang, Banten 15510
+
+ 
+
+From: tanty@pearlriver.space <mailto:tanty@pearlriver.space>
+<tanty@pearlriver.space <mailto:tanty@pearlriver.space> > 
+Sent: 27 April 2026 9:56
+To: 'Cyrill Ilario' <cyrill.ilario@pmt.co.id
+<mailto:cyrill.ilario@pmt.co.id> >
+Cc: 'lia@ptidp.co.id' <lia@ptidp.co.id <mailto:lia@ptidp.co.id> >;
+'lia.karyanti.ro@pmt.co.id' <lia.karyanti.ro@pmt.co.id
+<mailto:lia.karyanti.ro@pmt.co.id> >; 'agung.prawoto.ext@pmt.co.id'
+<agung.prawoto.ext@pmt.co.id <mailto:agung.prawoto.ext@pmt.co.id> >; 'Rama
+Dwibudiputra' <rama.dwi@pmt.co.id <mailto:rama.dwi@pmt.co.id> >; 'Chendy
+Kristiana' <chendy.kristiana@pmt.co.id <mailto:chendy.kristiana@pmt.co.id>
+>; 'valen.yola.amanda@pmt.co.id' <valen.yola.amanda@pmt.co.id
+<mailto:valen.yola.amanda@pmt.co.id> >; 'stevlin.maris@pmt.co.id'
+<stevlin.maris@pmt.co.id <mailto:stevlin.maris@pmt.co.id> >;
+'maya.permatasari@pmt.co.id' <maya.permatasari@pmt.co.id
+<mailto:maya.permatasari@pmt.co.id> >; 'procurement@pmt.co.id'
+<procurement@pmt.co.id <mailto:procurement@pmt.co.id> >;
+'bianhaibo@pearlriver.id' <bianhaibo@pearlriver.id
+<mailto:bianhaibo@pearlriver.id> >; 'wangyinhui@hnchuangxun.com'
+<wangyinhui@hnchuangxun.com <mailto:wangyinhui@hnchuangxun.com> >;
+'melati@pearlriver.id' <melati@pearlriver.id <mailto:melati@pearlriver.id>
+>; 'desiana.dc@pearlriver.id' <desiana.dc@pearlriver.id
+<mailto:desiana.dc@pearlriver.id> >; 'christianpsimajuntak@pearlriver.id'
+<christianpsimajuntak@pearlriver.id
+<mailto:christianpsimajuntak@pearlriver.id> >;
+'darezchandra.dc@pearlriver.id' <darezchandra.dc@pearlriver.id
+<mailto:darezchandra.dc@pearlriver.id> >;
+'enjelinahutagaol.dc@pearlriver.id' <enjelinahutagaol.dc@pearlriver.id
+<mailto:enjelinahutagaol.dc@pearlriver.id> >; 'anting.dc@pearlriver.id'
+<anting.dc@pearlriver.id <mailto:anting.dc@pearlriver.id> >
+Subject: RE: Request Approval BAST Dismantle 24 Site
+
+ 
+
+Dear Pak Cyrill Ilario,
+
+ 
+
+Mohon approval BAST untuk pekerjaan Dismantle 24 Site berikut (terlampir).
+
+
+No
+
+Site
+
+Pekerjaan
+
+Ket
+
+
+1
+
+JAW-JK-KYB-0255_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+2
+
+JAW-JK-KYB-0096_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+3
+
+JAW-JK-KYB-1673_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+4
+
+JAW-JK-GGP-0584_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+5
+
+JAW-JK-CKG-0748_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+6
+
+JAW-JK-GGP-0585_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+7
+
+JAW-JB-DPK-1649_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+8
+
+JAW-JB-DPK-1873_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+9
+
+JAW-JK-KYB-1536_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+10
+
+JAW-JK-CKG-0825_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+11
+
+JAW-JK-TNA-3071_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+12
+
+JAW-BT-TGR-1963_MOCN_WLSB
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+13
+
+JAW-JB-DPK-0486_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+14
+
+JAW-JK-CKG-0611_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+15
+
+JAW-JK-KYB-1542_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+16
+
+JAW-JB-DPK-1568_MOCN_WLSG
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+17
+
+JAW-JB-SBM-2530_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+18
+
+JAW-JK-KYB-1566_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+19
+
+JAW-JB-DPK-1567_MOCN_WLSG
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+20
+
+JAW-JK-CKG-0790_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+21
+
+JAW-BT-TNG-1417_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+22
+
+JAW-BT-TNG-1613_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+23
+
+JAW-BT-TNG-1616_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+24
+
+JAW-BT-TNG-1632_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+ 
+
+ 
+
+Thank You,
+
+Tanty Wijayanti
+
+PT Pearl River Indonesia
+
++6285647740430
+
+ 
+
+HQ: Gold Coast Office Tower Liberty Lt.19, Kamal Muara, Penjaringan, Jakarta
+Utara, DKI Jakarta 14470
+
+MEP: Rukan Shibuya Blok C no 22-23, Teluknaga, Tangerang, Banten 15510
+
+ 
+
+ 
+
+ 
+
+From: tanty@pearlriver.space <mailto:tanty@pearlriver.space>
+<tanty@pearlriver.space <mailto:tanty@pearlriver.space> > 
+Sent: 24 April 2026 15:59
+To: 'alo.roisan.ext@pmt.co.id' <alo.roisan.ext@pmt.co.id
+<mailto:alo.roisan.ext@pmt.co.id> >
+Cc: 'lia@ptidp.co.id' <lia@ptidp.co.id <mailto:lia@ptidp.co.id> >;
+'lia.karyanti.ro@pmt.co.id' <lia.karyanti.ro@pmt.co.id
+<mailto:lia.karyanti.ro@pmt.co.id> >; 'agung.prawoto.ext@pmt.co.id'
+<agung.prawoto.ext@pmt.co.id <mailto:agung.prawoto.ext@pmt.co.id> >; 'Rama
+Dwibudiputra' <rama.dwi@pmt.co.id <mailto:rama.dwi@pmt.co.id> >; 'Chendy
+Kristiana' <chendy.kristiana@pmt.co.id <mailto:chendy.kristiana@pmt.co.id>
+>; 'valen.yola.amanda@pmt.co.id' <valen.yola.amanda@pmt.co.id
+<mailto:valen.yola.amanda@pmt.co.id> >; 'stevlin.maris@pmt.co.id'
+<stevlin.maris@pmt.co.id <mailto:stevlin.maris@pmt.co.id> >;
+'maya.permatasari@pmt.co.id' <maya.permatasari@pmt.co.id
+<mailto:maya.permatasari@pmt.co.id> >; 'procurement@pmt.co.id'
+<procurement@pmt.co.id <mailto:procurement@pmt.co.id> >;
+'bianhaibo@pearlriver.id' <bianhaibo@pearlriver.id
+<mailto:bianhaibo@pearlriver.id> >; 'wangyinhui@hnchuangxun.com'
+<wangyinhui@hnchuangxun.com <mailto:wangyinhui@hnchuangxun.com> >;
+'melati@pearlriver.id' <melati@pearlriver.id <mailto:melati@pearlriver.id>
+>; 'desiana.dc@pearlriver.id' <desiana.dc@pearlriver.id
+<mailto:desiana.dc@pearlriver.id> >; 'christianpsimajuntak@pearlriver.id'
+<christianpsimajuntak@pearlriver.id
+<mailto:christianpsimajuntak@pearlriver.id> >;
+'darezchandra.dc@pearlriver.id' <darezchandra.dc@pearlriver.id
+<mailto:darezchandra.dc@pearlriver.id> >;
+'enjelinahutagaol.dc@pearlriver.id' <enjelinahutagaol.dc@pearlriver.id
+<mailto:enjelinahutagaol.dc@pearlriver.id> >; 'anting.dc@pearlriver.id'
+<anting.dc@pearlriver.id <mailto:anting.dc@pearlriver.id> >
+Subject: Request Approval BAST Dismantle 24 Site
+
+ 
+
+Dear Pak Alo Abdul Roisan,
+
+ 
+
+Mohon approval BAST untuk pekerjaan Dismantle 24 Site berikut (terlampir).
+
+ 
+
+
+No
+
+Site
+
+Pekerjaan
+
+Ket
+
+
+1
+
+JAW-JK-KYB-0255_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+2
+
+JAW-JK-KYB-0096_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+3
+
+JAW-JK-KYB-1673_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+4
+
+JAW-JK-GGP-0584_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+5
+
+JAW-JK-CKG-0748_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+6
+
+JAW-JK-GGP-0585_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+7
+
+JAW-JB-DPK-1649_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+8
+
+JAW-JB-DPK-1873_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+9
+
+JAW-JK-KYB-1536_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+10
+
+JAW-JK-CKG-0825_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+11
+
+JAW-JK-TNA-3071_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+12
+
+JAW-BT-TGR-1963_MOCN_WLSB
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+13
+
+JAW-JB-DPK-0486_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+14
+
+JAW-JK-CKG-0611_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+15
+
+JAW-JK-KYB-1542_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+16
+
+JAW-JB-DPK-1568_MOCN_WLSG
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+17
+
+JAW-JB-SBM-2530_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+18
+
+JAW-JK-KYB-1566_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+19
+
+JAW-JB-DPK-1567_MOCN_WLSG
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+20
+
+JAW-JK-CKG-0790_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+21
+
+JAW-BT-TNG-1417_MOCN_WLSF
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+22
+
+JAW-BT-TNG-1613_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+23
+
+JAW-BT-TNG-1616_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+
+24
+
+JAW-BT-TNG-1632_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+Done
+
+ 
+
+ 
+
+Thank You,
+
+Tanty Wijayanti
+
+PT Pearl River Indonesia
+
++6285647740430
+
+ 
+
+HQ: Gold Coast Office Tower Liberty Lt.19, Kamal Muara, Penjaringan, Jakarta
+Utara, DKI Jakarta 14470
+
+MEP: Rukan Shibuya Blok C no 22-23, Teluknaga, Tangerang, Banten 15510
+
+ 
+
+ 
+
+
+ 
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campai
+gn=sig-email&utm_content=emailclient> 
+
+Bebas virus.
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campai
+gn=sig-email&utm_content=emailclient> www.avast.com
+
+ 
+
 
- 
-
-Baik Pak.
-Berikut kami ajukan BAST untuk pekerjaan Dismantle 9 site (terlampir).
-Mohon review dan approval nya.
-
-
-No
-
-Site ID/DU ID
-
-Pekerjaan
-
-PO Number
-
-Date M08-C (Dismantle)
-
-Date M08-D (Inbound)
-
-Date M08-B (ATP Dismantle)
-
-TOP
-
-
-1
-
-JAW-JB-SKB-2372_MOCN_WLSE
-
-BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
-Accessories If Necessary)
-
-PO-PMT/2602/00089
-
-05/01/2026
-
-04/02/2026
-
-17/04/2026
-
-80%
-
-
-2
-
-JAW-JK-KYB-0255_MOCN_WLSE
-
-BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
-Accessories If Necessary)
-
-PO-PMT/2602/00089
-
-14/01/2026
-
-04/02/2026
-
-22/04/2026
-
-80%
-
-
-3
-
-JAW-JB-SKB-2370_MOCN_WLSE
-
-BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
-Accessories If Necessary)
-
-PO-PMT/2602/00089
-
-17/12/2025
-
-27/12/2025
-
-16/03/2026
-
-80%
-
-
-4
-
-JAW-JB-SBM-2437_MOCN_WLSE
-
-BTS Dismantling (Include BBU & RRU & Power And All Other
+                    
