@@ -1,0 +1,93 @@
+pesan email 
+                        📩 EMAIL BARU
+
+                        From: [('tanty@pearlriver.space', 'tanty@pearlriver.space')]
+
+                        Subject: RE: Request Approval BAST Dismantle 24 Site
+
+                        Body:
+                        Dear Pak Cyrill Ilario,
+
+ 
+
+Baik Pak.
+Berikut kami ajukan BAST untuk pekerjaan Dismantle 9 site (terlampir).
+Mohon review dan approval nya.
+
+
+No
+
+Site ID/DU ID
+
+Pekerjaan
+
+PO Number
+
+Date M08-C (Dismantle)
+
+Date M08-D (Inbound)
+
+Date M08-B (ATP Dismantle)
+
+TOP
+
+
+1
+
+JAW-JB-SKB-2372_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+PO-PMT/2602/00089
+
+05/01/2026
+
+04/02/2026
+
+17/04/2026
+
+80%
+
+
+2
+
+JAW-JK-KYB-0255_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+PO-PMT/2602/00089
+
+14/01/2026
+
+04/02/2026
+
+22/04/2026
+
+80%
+
+
+3
+
+JAW-JB-SKB-2370_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other Equipment And
+Accessories If Necessary)
+
+PO-PMT/2602/00089
+
+17/12/2025
+
+27/12/2025
+
+16/03/2026
+
+80%
+
+
+4
+
+JAW-JB-SBM-2437_MOCN_WLSE
+
+BTS Dismantling (Include BBU & RRU & Power And All Other

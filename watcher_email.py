@@ -1,8 +1,11 @@
 import os
+import re
+import pandas as pd
 import time
 import requests
 from dotenv import load_dotenv
 from imapclient import IMAPClient
+from datetime import datetime, timedelta
 import pyzmail
 
 load_dotenv()
@@ -36,57 +39,102 @@ def check_email():
             print("Login success")
 
             server.select_folder('INBOX')
-
             messages = server.search(['SEEN'])
 
-            for uid in messages:
+            response = server.fetch(
+                messages,
+                ['INTERNALDATE']
+            )
+            target_date = datetime(2026, 5, 13).date()
+            
+            for uid, data in response.items():
                 if uid in seen_uids:
                     continue
 
-                raw_message = server.fetch([uid], ['BODY[]', 'FLAGS'])
+                email_date = data[b'INTERNALDATE']
 
-                message = pyzmail.PyzMessage.factory(
-                    raw_message[uid][b'BODY[]']
-                )
+                if email_date.date() == target_date:
+                    print(f"MATCH UID: {uid}")
 
-                subject = message.get_subject()
+                    raw_message = server.fetch([uid], ['BODY[]', 'FLAGS'])
 
-                from_email = message.get_addresses('from')
-
-                body = ''
-
-                if message.text_part:
-                    body = message.text_part.get_payload().decode(
-                        message.text_part.charset or 'utf-8'
+                    message = pyzmail.PyzMessage.factory(
+                        raw_message[uid][b'BODY[]']
                     )
 
-                text = f'''
-                    📩 EMAIL BARU
+                    subject = message.get_subject()
 
-                    From: {from_email}
+                    from_email = message.get_addresses('from')
 
-                    Subject: {subject}
+                    body = ''
 
-                    Body:
-                    {body[:1000]}
-                '''
+                    if message.text_part:
+                        body = message.text_part.get_payload().decode(
+                            message.text_part.charset or 'utf-8'
+                        )
 
-                send_telegram(text)
+                    text = f'''
+                        📩 EMAIL BARU
 
-                seen_uids.add(uid)
+                        From: {from_email}
 
-                print(f'Email sent to Telegram: {subject}')
-                time.sleep(2)
+                        Subject: {subject}
 
+                        Body:
+                        {body}
+                    '''
+
+                    send_telegram(text)
+
+                    seen_uids.add(uid)
+
+                    print(f'Email sent to Telegram: {subject}')
+                    time.sleep(2)
+
+            return text
     except Exception as e:
         print("ERROR:")
         print(e)
 
-if __name__ == '__main__':
-    while True:
-        try:
-            check_email()
-        except Exception as e:
-            print('ERROR:', e)
+def clean_email_body(body):
 
-        time.sleep(15)
+    # hilangkan multiple whitespace
+    body = re.sub(r'\r', ' ', body)
+    body = re.sub(r'\n+', '\n', body)
+    body = re.sub(r'[ \t]+', ' ', body)
+
+    return body.strip()
+
+def extract_rows(body):
+
+    # split berdasarkan nomor tabel
+    pattern = r'\n(\d+)\s*\n'
+
+    splits = re.split(pattern, body)
+
+    rows = []
+
+    # index 0 biasanya header
+    for i in range(1, len(splits), 2):
+
+        no = splits[i]
+        content = splits[i + 1]
+        print(content)
+        # rows.append({
+        #     "no": no,
+        #     "raw_content": content
+        # })
+
+    return rows
+
+# if __name__ == '__main__':
+# text = check_email()
+# print("pesan email", text)
+
+with open('result_email.txt', 'r') as file:
+    content = file.read()
+
+cleaned_body = clean_email_body(content)
+rows = extract_rows(cleaned_body)
+df = pd.DataFrame(rows)
+#df.to_excel("result_scrap.xlsx")
